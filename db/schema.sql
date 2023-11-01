@@ -1,4 +1,4 @@
-
+-- This file initializes database 
 -- DROP DATABASE
 DROP DATABASE IF EXISTS ecommerce_db;
 
